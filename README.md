@@ -1,1 +1,2 @@
-# Clock-JavaScript
+
+![](demo/demo.gif)

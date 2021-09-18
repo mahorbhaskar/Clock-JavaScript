@@ -132,9 +132,9 @@ html {
   }
   
   .hand.min-hand {
-    height: 3px;
+    height: 4px;
     z-index: 10;
-    width: 40%;
+    width: 50%;
   }
   
   .hand.second-hand {
